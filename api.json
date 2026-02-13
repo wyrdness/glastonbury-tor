@@ -1,10 +1,8 @@
 {
-  "category": "SACRED_SITE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/glastonbury-tor",
     "maintainers": [
       {
@@ -18,874 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "glastonbury-tor",
     "name": "Glastonbury Tor",
-    "aliases": [
-      {
-        "name": "The Isle of Avalon",
-        "language": "Celtic/Arthurian",
-        "region": "Somerset, England",
-        "meaning": "Island of Apples, legendary resting place of King Arthur"
-      },
-      {
-        "name": "Ynys Witrin",
-        "language": "Welsh",
-        "region": "Somerset, England",
-        "meaning": "Isle of Glass"
-      },
-      {
-        "name": "Isle of Glass",
-        "language": "English (from Welsh)",
-        "region": "Somerset, England"
-      },
-      {
-        "name": "Spiral Hill",
-        "region": "Somerset, England",
-        "meaning": "Modern name referring to terraced pathways"
-      }
-    ],
+    "aliases": [],
     "category": "SACRED_SITE",
-    "subcategory": "Hill/Tor",
+    "subcategory": "Unimproved grassland (increasingly rare in England)",
     "tags": [
-      "sacred-site",
-      "ley-line-nexus",
-      "arthurian-legend",
-      "celtic-mythology",
-      "christian-pilgrimage",
-      "ancient-landscape",
-      "england",
-      "somerset",
-      "archaeology",
-      "spiritual-tourism"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "A prominent hill topped by the roofless St. Michael's Tower in Somerset, England, associated with Arthurian legend, Celtic mythology, ley line theories, and Christian pilgrimage. One of Britain's most spiritually significant landscapes.",
-      "full": "Glastonbury Tor is a 158-meter (518-foot) hill that dominates the Somerset Levels landscape in southwest England. Topped by the ruins of St. Michael's Tower, the Tor has been a focal point of legend, mythology, and spiritual significance for millennia. The site is associated with the legendary Isle of Avalon, King Arthur's final resting place, and Celtic traditions identifying it as an entrance to Annwn, the Otherworld. The hill features distinctive terracing that some interpret as a ritual labyrinth. Nearby Glastonbury Abbey adds Christian significance, claiming connections to Joseph of Arimathea and the Holy Grail. Modern theories position the Tor as a major ley line junction. Archaeological evidence reveals occupation from Neolithic times through medieval periods. Today, it remains a pilgrimage site for Christians, pagans, New Age practitioners, and tourists, representing a unique convergence of ancient, medieval, and modern spiritual traditions."
+      "summary": "Glastonbury Tor is a 158-meter (518-foot) hill that dominates the Somerset Levels landscape in southwest England.",
+      "full": "Glastonbury Tor is a 158-meter (518-foot) hill that dominates the Somerset Levels landscape in southwest England. Topped by the ruins of the 14th-century St. Michael's Tower, the Tor has been a focal point of legend, mythology, and spiritual significance for millennia. The site is inextricably linked with the legendary Isle of Avalon, identified by medieval tradition as King Arthur's final resting place. Celtic traditions recognize it as an entrance to Annwn, the Otherworld. The hill features distinctive seven-tier terracing that some interpret as an ancient ritual labyrinth, though this remains disputed. Nearby Glastonbury Abbey enhances the site's Christian significance, with traditions linking it to Joseph of Arimathea and the Holy Grail. Modern esoteric theories position the Tor as a major ley line junction and energy vortex. Archaeological evidence reveals human activity from Neolithic times through medieval periods, confirming its long-standing significance. Today, it remains a pilgrimage site for Christians, pagans, New Age practitioners, and tourists, representing a unique convergence of ancient, medieval, and modern spiritual traditions. With over 250,000 visitors annually, Glastonbury Tor stands as one of Britain's most iconic and spiritually significant landscapes."
     },
     "etymology": {
-      "origin": "Old English 'torr' meaning 'rocky peak' or 'tower-like hill,' likely from Celtic languages",
-      "meaning": "Rocky hill or prominent peak",
-      "first_use": "Medieval period"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "SACRED_SITE",
-      "type": "Natural landscape feature (hill/tor)",
-      "subtype": "Multi-faith pilgrimage site",
-      "variant": "British Isles"
+      "type": "Unimproved grassland (increasingly rare in England)",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "ley-lines",
-        "name": "Ley Lines",
-        "relationship": "associated",
-        "description": "The Tor is claimed to sit at a major ley line intersection"
-      },
-      {
-        "id": "glastonbury-abbey",
-        "name": "Glastonbury Abbey",
-        "relationship": "connected",
-        "description": "Nearby medieval abbey with Arthurian connections"
-      },
-      {
-        "id": "st-michaels-mount",
-        "name": "St. Michael's Mount",
-        "relationship": "similar",
-        "description": "Another St. Michael site on the proposed St. Michael's ley line"
-      },
-      {
-        "id": "sedona-vortexes",
-        "name": "Sedona Vortexes",
-        "relationship": "comparable",
-        "description": "Similar claims of energy vortexes and spiritual power"
-      },
-      {
-        "id": "mount-shasta",
-        "name": "Mount Shasta",
-        "relationship": "comparable",
-        "description": "Another mountain with layered spiritual significance"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "value": 158,
-        "unit": "meters",
-        "feet": 518,
-        "confidence": "verified"
-      },
-      "coordinates": {
-        "latitude": 51.1444,
-        "longitude": -2.6986,
-        "precision": "exact"
-      },
-      "features": [
-        {
-          "feature": "St. Michael's Tower",
-          "description": "14th-century roofless church tower, sole remaining structure from St. Michael's Church",
-          "frequency": "permanent",
-          "verified": true
-        },
-        {
-          "feature": "Terracing",
-          "description": "Seven-tier terracing around the hill, possibly ancient labyrinth or agricultural terracing",
-          "frequency": "permanent",
-          "verified": true
-        },
-        {
-          "feature": "Summit plateau",
-          "description": "Flattened hilltop with panoramic views of Somerset Levels",
-          "frequency": "permanent",
-          "verified": true
-        },
-        {
-          "feature": "Spring",
-          "description": "Chalice Well at base of Tor, iron-rich red spring water",
-          "frequency": "permanent",
-          "verified": true
-        }
-      ],
-      "geology": "Composed of Blue Lias and Inferior Oolite limestone, resistant to erosion. Topped with harder sandstone cap. Stands above surrounding Somerset Levels marshland.",
-      "landscape_context": "Isolated hill rising from flat Somerset Levels, historically surrounded by water and marshland, creating island-like appearance"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "spiritual_features": [
-      {
-        "feature": "Ley line nexus",
-        "description": "Claimed intersection of multiple ley lines, including St. Michael's Line",
-        "tradition": "Modern Earth Mysteries",
-        "evidence_level": "unverified"
-      },
-      {
-        "feature": "Energy vortex",
-        "description": "Reported as location of swirling spiritual energies",
-        "tradition": "New Age",
-        "evidence_level": "subjective"
-      },
-      {
-        "feature": "Labyrinth pathway",
-        "description": "Terracing interpreted as seven-circuit processional labyrinth",
-        "tradition": "Various",
-        "evidence_level": "disputed"
-      },
-      {
-        "feature": "Gateway to Annwn",
-        "description": "Celtic tradition places entrance to Otherworld within the Tor",
-        "tradition": "Celtic mythology",
-        "evidence_level": "legendary"
-      }
-    ],
-    "reported_phenomena": {
-      "activity_period": "continuous",
-      "disposition": "benevolent",
-      "experiences": [
-        "Altered consciousness states",
-        "Spiritual visions",
-        "Heightened intuition",
-        "Healing experiences",
-        "UFO sightings",
-        "Temporal anomalies",
-        "Electromagnetic effects"
-      ],
-      "patterns": [
-        "Increased reports during solstices and equinoxes",
-        "Peak spiritual experiences at dawn",
-        "Enhanced effects at tower summit",
-        "Cluster of experiences near Chalice Well"
-      ]
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
-    "location": {
-      "description": "Glastonbury, Somerset, England, United Kingdom",
-      "country": "United Kingdom",
-      "region": "Somerset, South West England",
-      "locality": "Glastonbury",
-      "coordinates": {
-        "latitude": 51.1444,
-        "longitude": -2.6986
-      },
-      "accessibility": "Public footpath access, managed by National Trust",
-      "nearest_city": "Glastonbury (within town), Bristol (40 km)"
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "related_sites": [
-      {
-        "name": "Glastonbury Abbey",
-        "distance": "1 km",
-        "relationship": "Historical and spiritual connection, Arthur's alleged burial site"
-      },
-      {
-        "name": "Chalice Well",
-        "distance": "200 meters",
-        "relationship": "Sacred spring at base of Tor, associated with Holy Grail legends"
-      },
-      {
-        "name": "White Spring",
-        "distance": "300 meters",
-        "relationship": "Counterpart to Chalice Well, calcium-rich spring"
-      },
-      {
-        "name": "Wearyall Hill",
-        "distance": "1.5 km",
-        "relationship": "Site of Holy Thorn legend, Joseph of Arimathea's staff"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Neolithic period",
+        "date": "Unknown",
         "circa": true,
-        "source": "Archaeological evidence of human activity"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "Neolithic-Bronze Age",
-          "description": "Early ritual use suggested by artifacts"
-        },
-        {
-          "period": "Iron Age",
-          "description": "Possible hillfort occupation"
-        },
-        {
-          "period": "6th-8th century CE",
-          "description": "Dark Ages monastery, Arthurian period"
-        },
-        {
-          "period": "Medieval period",
-          "description": "St. Michael's Church built, pilgrimage site"
-        },
-        {
-          "period": "1960s-present",
-          "description": "New Age revival, Glastonbury Festival influence"
-        }
-      ],
-      "seasonal_patterns": "Highest visitation during summer solstice, Beltane (May Day), and Samhain (Halloween)"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Prehistoric ritual landscape evolving through Celtic, Romano-British, Christian, and modern pagan traditions. Archaeological evidence suggests significance from Neolithic times.",
-      "earliest_accounts": "Place-name evidence and Iron Age artifacts suggest pre-Roman sacred status. Geoffrey of Monmouth's 12th-century writings establish literary Avalon connection.",
-      "folklore_connections": "Celtic Otherworld traditions, Arthurian cycle, Grail romances, Christian hagiography, modern Earth Mysteries"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "3000-2000 BCE",
-        "event": "Neolithic occupation",
-        "significance": "Archaeological evidence of early human activity, suggesting ritual significance",
-        "source": "Archaeological surveys"
-      },
-      {
-        "date": "300-100 BCE",
-        "event": "Iron Age settlement",
-        "significance": "Possible hillfort; late Iron Age pottery and artifacts found",
-        "source": "Archaeological excavations"
-      },
-      {
-        "date": "63 CE",
-        "event": "Joseph of Arimathea legend",
-        "significance": "Medieval tradition claims Joseph brought Holy Grail to Glastonbury",
-        "source": "Medieval hagiography (recorded much later)"
-      },
-      {
-        "date": "5th-6th century CE",
-        "event": "Arthurian period",
-        "significance": "Traditional date for King Arthur; later identified as Isle of Avalon",
-        "source": "Later medieval texts"
-      },
-      {
-        "date": "1135",
-        "event": "Geoffrey of Monmouth's 'Historia Regum Britanniae'",
-        "significance": "First recorded connection between Glastonbury and Avalon",
-        "source": "Literary text"
-      },
-      {
-        "date": "1191",
-        "event": "Arthur's grave 'discovered'",
-        "significance": "Glastonbury Abbey monks claim to find Arthur and Guinevere's remains",
-        "source": "Abbey records (disputed by historians)"
-      },
-      {
-        "date": "1275-1323",
-        "event": "St. Michael's Church built",
-        "significance": "Church constructed on summit, dedicated to St. Michael",
-        "source": "Historical records"
-      },
-      {
-        "date": "1539",
-        "event": "Dissolution of Glastonbury Abbey",
-        "significance": "Henry VIII dissolves abbey; last abbot Richard Whiting executed on Tor",
-        "source": "Historical records"
-      },
-      {
-        "date": "1804",
-        "event": "Church destroyed",
-        "significance": "St. Michael's Church destroyed except tower, reportedly by earthquake",
-        "source": "Local records"
-      },
-      {
-        "date": "1922",
-        "event": "Archaeological excavations",
-        "significance": "First systematic excavations reveal occupation history",
-        "source": "Published archaeological reports"
-      },
-      {
-        "date": "1937",
-        "event": "National Trust acquisition",
-        "significance": "Tor acquired by National Trust, ensuring public access",
-        "source": "National Trust records"
-      },
-      {
-        "date": "1960s",
-        "event": "New Age revival",
-        "significance": "Glastonbury becomes focus of alternative spirituality, ley line theories popularized",
-        "source": "Cultural history"
-      },
-      {
-        "date": "1970",
-        "event": "First Glastonbury Festival",
-        "significance": "Music festival strengthens Glastonbury's countercultural associations",
-        "source": "Festival history"
-      },
-      {
-        "date": "1990s-2000s",
-        "event": "Archaeological reassessment",
-        "significance": "Modern techniques reveal more complex occupation history",
-        "source": "Academic publications"
-      }
-    ],
-    "modern_era": "Glastonbury Tor remains one of Britain's most visited sacred sites, attracting 250,000+ visitors annually. It serves as pilgrimage destination for diverse spiritual traditions, tourist attraction, and focus of ongoing archaeological research. The site embodies tension between historical fact, medieval legend, and modern spiritual interpretation."
+    "timeline": []
   },
-
-  "experiences": {
+  "sightings": {
     "statistics": {
-      "annual_visitors": 250000,
-      "documented_experiences": 500,
+      "total_documented": 0,
       "verified": 0,
-      "date_range": {
-        "earliest": "Medieval period",
-        "latest": "2026"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "glastonbury-tor-experience-1539",
-        "name": "Execution of Abbot Whiting",
-        "date": {
-          "value": "1539-11-15",
-          "precision": "exact"
-        },
-        "description": "Richard Whiting, last Abbot of Glastonbury, executed on the Tor during Dissolution of the Monasteries. His death marked the end of medieval Catholic Glastonbury. Some report sensing residual anguish at the summit.",
-        "type": "Historical event with reported spiritual residue",
-        "credibility": {
-          "historical_event": "verified",
-          "spiritual_experiences": "subjective"
-        },
-        "sources": [
-          "Historical records of Dissolution",
-          "Contemporary visitor reports"
-        ]
-      },
-      {
-        "id": "glastonbury-tor-experience-ufo",
-        "name": "UFO sightings",
-        "date": {
-          "value": "1960s-present",
-          "precision": "ongoing"
-        },
-        "description": "Multiple reports of unidentified aerial phenomena around the Tor, particularly lights and disc-shaped objects. Concentration of sightings during 1990s.",
-        "type": "UFO activity",
-        "credibility": {
-          "rating": "low",
-          "factors": [
-            "Multiple independent witnesses",
-            "No photographic verification",
-            "Possible aircraft misidentification",
-            "Confirmation bias in spiritually-primed location"
-          ]
-        },
-        "sources": [
-          "Local UFO groups",
-          "Visitor testimonials"
-        ]
-      },
-      {
-        "id": "glastonbury-tor-experience-vortex",
-        "name": "Energy vortex experiences",
-        "date": {
-          "value": "1960s-present",
-          "precision": "ongoing"
-        },
-        "description": "Visitors report sensations of energy, tingling, altered consciousness, spiritual visions, and heightened intuition, particularly at summit. Concentration of reports at dawn and during equinoxes.",
-        "type": "Subjective spiritual experience",
-        "credibility": {
-          "rating": "subjective",
-          "factors": [
-            "Consistent types of experiences across decades",
-            "No measurable energy detected",
-            "Expectation and suggestion likely factors",
-            "Legitimate phenomenology of place"
-          ]
-        },
-        "sources": [
-          "Visitor surveys",
-          "New Age literature",
-          "Academic studies of pilgrimage"
-        ]
-      }
-    ]
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
-    "archaeological": [
-      {
-        "type": "artifacts",
-        "name": "Iron Age and Romano-British pottery",
-        "date": "Various excavations",
-        "description": "Pottery sherds indicating occupation from Iron Age through Roman periods",
-        "status": "verified",
-        "significance": "Demonstrates long-term human use of the Tor",
-        "source": "Multiple archaeological excavations"
-      },
-      {
-        "type": "structures",
-        "name": "St. Michael's Tower",
-        "date": "14th century",
-        "description": "Surviving tower from medieval church, Grade I listed building",
-        "status": "verified",
-        "significance": "Physical evidence of medieval Christian significance",
-        "source": "Standing structure, historical records"
-      },
-      {
-        "type": "terracing",
-        "name": "Hill terracing",
-        "date": "Unknown",
-        "description": "Seven-tier terracing around the Tor",
-        "status": "verified structure, disputed origin",
-        "analysis": "Origin debated: natural erosion, agricultural terracing, or ritual labyrinth. No consensus.",
-        "source": "Visible landscape feature"
-      }
-    ],
-    "historical": [
-      {
-        "type": "documentary",
-        "name": "Domesday Book",
-        "date": "1086",
-        "description": "Records Glastonbury Abbey's extensive holdings",
-        "status": "verified",
-        "significance": "Establishes medieval importance of Glastonbury",
-        "source": "National Archives"
-      },
-      {
-        "type": "literary",
-        "name": "Arthurian romances",
-        "date": "12th century onward",
-        "description": "Multiple texts connect Glastonbury to Avalon and Arthur",
-        "status": "verified as texts, legendary content",
-        "significance": "Documents development of Avalon tradition",
-        "source": "Medieval manuscripts"
-      }
-    ],
-    "geological": [
-      {
-        "type": "geological survey",
-        "name": "Tor geology",
-        "description": "Limestone hill with sandstone cap, resistant to erosion",
-        "status": "verified",
-        "significance": "Explains Tor's prominence in landscape",
-        "source": "British Geological Survey"
-      }
-    ],
-    "disputed": [
-      {
-        "type": "ley lines",
-        "name": "St. Michael's Line and other ley lines",
-        "description": "Claimed alignment of ancient sites through Glastonbury Tor",
-        "status": "unverified",
-        "analysis": "No archaeological or geophysical evidence supports ley line theory. Statistical analysis suggests alignments are coincidental.",
-        "source": "Modern Earth Mysteries movement"
-      },
-      {
-        "type": "energy measurements",
-        "name": "Vortex energy readings",
-        "description": "Claims of measurable energy at the Tor",
-        "status": "unverified",
-        "analysis": "No replicable scientific measurements support energy vortex claims",
-        "source": "Dowsers and alternative practitioners"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "historical": [
-      {
-        "name": "Avalon identification",
-        "description": "Glastonbury Tor is the historical basis for the Isle of Avalon in Arthurian legend",
-        "proponents": ["Medieval monks", "Many historians"],
-        "evidence_cited": [
-          "Name similarity (Avalon/Avallonach)",
-          "Island-like appearance when surrounded by water",
-          "1191 'discovery' of Arthur's grave at Abbey",
-          "Strong medieval tradition"
-        ],
-        "counterarguments": [
-          "No pre-12th century sources connect Glastonbury to Arthur",
-          "1191 grave likely medieval fabrication for fundraising",
-          "Avalon may be entirely mythical",
-          "Other sites also claimed as Avalon"
-        ]
-      },
-      {
-        "name": "Joseph of Arimathea mission",
-        "description": "Joseph brought Christianity and the Holy Grail to Glastonbury in 1st century CE",
-        "proponents": ["Medieval hagiographers", "Christian tradition"],
-        "evidence_cited": [
-          "Medieval texts",
-          "Glastonbury Abbey traditions",
-          "Holy Thorn legend"
-        ],
-        "counterarguments": [
-          "No contemporary historical evidence",
-          "Legend appears first in medieval period",
-          "No archaeological support for 1st-century Christian presence"
-        ]
-      }
-    ],
-    "archaeological": [
-      {
-        "name": "Ritual labyrinth",
-        "description": "The terracing represents an ancient processional labyrinth for ritual circumambulation",
-        "proponents": ["Geoffrey Russell", "Earth Mysteries researchers"],
-        "evidence_cited": [
-          "Seven-circuit pattern",
-          "Resemblance to Cretan labyrinth",
-          "Spiritual experiences while walking terraces"
-        ],
-        "counterarguments": [
-          "No archaeological evidence of deliberate construction",
-          "Pattern equally consistent with agricultural terracing",
-          "Natural erosion could produce similar effects",
-          "No parallels at other British sites"
-        ]
-      },
-      {
-        "name": "Hillfort",
-        "description": "The Tor was an Iron Age hillfort",
-        "proponents": ["Some archaeologists"],
-        "evidence_cited": [
-          "Strategic location",
-          "Iron Age artifacts found",
-          "Terracing could be defensive"
-        ],
-        "counterarguments": [
-          "No evidence of defensive structures",
-          "Limited artifacts for sustained occupation",
-          "Site characteristics differ from typical hillforts"
-        ]
-      }
-    ],
-    "esoteric": [
-      {
-        "name": "Ley line nexus",
-        "description": "Glastonbury Tor sits at intersection of multiple ley lines, including St. Michael's Line to Skellig Michael",
-        "proponents": ["Alfred Watkins", "John Michell", "Modern Earth Mysteries movement"],
-        "evidence_cited": [
-          "Alignment with other sacred sites",
-          "St. Michael dedications along proposed line",
-          "Dowsing results",
-          "Spiritual experiences"
-        ],
-        "counterarguments": [
-          "No archaeological or geophysical basis",
-          "Statistical analysis shows alignments are coincidental",
-          "Confirmation bias in site selection",
-          "Concept invented only in 1921"
-        ]
-      },
-      {
-        "name": "Energy vortex",
-        "description": "The Tor generates or channels spiritual/electromagnetic energy",
-        "proponents": ["New Age practitioners", "Dowsers"],
-        "evidence_cited": [
-          "Subjective spiritual experiences",
-          "Dowsing readings",
-          "Unusual geological composition",
-          "Healing experiences"
-        ],
-        "counterarguments": [
-          "No measurable energy detected by scientific instruments",
-          "Experiences explained by psychology and expectation",
-          "No mechanism for proposed energy",
-          "Claims not falsifiable"
-        ]
-      },
-      {
-        "name": "Gateway to Otherworld",
-        "description": "Celtic tradition places entrance to Annwn (Otherworld) within or beneath the Tor",
-        "proponents": ["Celtic revivalists", "Modern pagans"],
-        "evidence_cited": [
-          "Medieval Welsh traditions",
-          "Cave systems in Tor",
-          "Otherworld island motif",
-          "Gwyn ap Nudd associations"
-        ],
-        "counterarguments": [
-          "Specific Glastonbury connection is modern",
-          "Conflation of different Celtic traditions",
-          "Mythological, not literal claim for most adherents"
-        ]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Medieval marketing",
-        "description": "Glastonbury Abbey monks fabricated Arthurian and Holy Grail connections to attract pilgrims and revenue",
-        "proponents": ["Modern historians", "Skeptics"],
-        "evidence_cited": [
-          "1191 grave discovery came after devastating fire, during fundraising",
-          "No pre-12th century Arthur-Glastonbury connections",
-          "Economic motivations clear",
-          "Medieval abbeys frequently claimed relics and connections"
-        ]
-      },
-      {
-        "name": "Suggestion and expectation",
-        "description": "Spiritual experiences result from expectation, suggestion, and priming rather than any property of the location",
-        "proponents": ["Psychologists", "Skeptics"],
-        "evidence_cited": [
-          "Well-documented power of suggestion",
-          "Experiences match cultural expectations",
-          "No experiences before site became famous",
-          "Similar effects at any location with cultural significance"
-        ]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Isle of Avalon - King Arthur's final destination",
-        "Gwyn ap Nudd - Celtic lord of Annwn, ruler beneath the Tor",
-        "Joseph of Arimathea and the Holy Grail",
-        "Holy Thorn - Joseph's staff blooming at Wearyall Hill",
-        "Faery traditions - Tor as gateway to faery realm"
-      ],
-      "stories": [
-        "King Arthur taken to Avalon after Battle of Camlann",
-        "St. Collen's encounter with Gwyn ap Nudd inside the Tor",
-        "Joseph planting his staff, creating Holy Thorn",
-        "Knights seeking Holy Grail at Glastonbury"
-      ],
-      "beliefs": "Multi-layered sacred landscape combining Celtic Otherworld beliefs, Arthurian romance, Christian mysticism, and modern Earth Mysteries traditions"
-    },
-    "christian": {
-      "traditions": [
-        "St. Michael dedication (dragon-slayer, defender against evil)",
-        "Pilgrimage site since medieval period",
-        "Associated with Joseph of Arimathea's mission",
-        "Martyrdom of Abbot Richard Whiting (1539)"
-      ],
-      "significance": "Important Christian sacred site, though modern significance is ecumenical",
-      "active_practices": "Christian pilgrimage continues, tower contains simple altar"
-    },
-    "pagan": {
-      "traditions": [
-        "Celtic Otherworld entrance",
-        "Goddess worship (Tor associated with the Goddess)",
-        "Seasonal celebrations (Beltane, Samhain, solstices)",
-        "Earth energies and sacred landscape"
-      ],
-      "significance": "Central site for modern pagan practice in Britain",
-      "active_practices": "Seasonal gatherings, rituals, meditation, earth energy work",
-      "sensitivity_note": "Diverse pagan traditions coexist; not monolithic"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "\"The Mists of Avalon\" by Marion Zimmer Bradley (1983)",
-        "\"The Once and Future King\" by T.H. White (1958)",
-        "\"The Glastonbury Romance\" by John Cowper Powys (1932)",
-        "Numerous Arthurian retellings featuring Avalon"
-      ],
-      "film_tv": [
-        "\"Excalibur\" (1981) - Arthurian film",
-        "\"The Mists of Avalon\" (2001) - TV miniseries",
-        "Numerous documentaries on Glastonbury and Arthur",
-        "Featured in various paranormal and travel shows"
-      ],
-      "music": [
-        "Glastonbury Festival - world-famous music festival (held nearby, though not at Tor)",
-        "Subject of numerous songs and albums"
-      ],
-      "other": [
-        "Major tourist attraction (250,000+ annual visitors)",
-        "Glastonbury town known for alternative spirituality shops",
-        "Pilgrimage destination for multiple traditions",
-        "Subject of extensive New Age literature"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "archaeologists": [
-      {
-        "name": "Dr. Philip Rahtz",
-        "affiliation": "University of York",
-        "contribution": "Major excavations in 1960s-1970s, established occupation chronology",
-        "period": "1963-1979"
-      },
-      {
-        "name": "Geoffrey Ashe",
-        "affiliation": "Independent historian",
-        "contribution": "Research on Glastonbury-Avalon connection, Arthurian studies",
-        "period": "1950s-2000s"
-      },
-      {
-        "name": "C.A. Ralegh Radford",
-        "affiliation": "Director of British School at Rome",
-        "contribution": "Early 20th century excavations at Abbey and Tor",
-        "period": "1920s-1960s"
-      }
-    ],
-    "historians": [
-      {
-        "name": "James P. Carley",
-        "affiliation": "University of York",
-        "contribution": "Leading expert on Glastonbury Abbey history and Arthur legends",
-        "period": "1980s-present"
-      },
-      {
-        "name": "Gildas",
-        "affiliation": "6th-century monk",
-        "contribution": "Early British history, does not mention Glastonbury-Arthur connection",
-        "period": "6th century"
-      }
-    ],
-    "alternative_researchers": [
-      {
-        "name": "John Michell",
-        "affiliation": "Independent",
-        "contribution": "Ley line research, sacred geometry, Earth Mysteries",
-        "period": "1960s-2009"
-      },
-      {
-        "name": "Geoffrey Russell",
-        "affiliation": "Independent",
-        "contribution": "Ritual labyrinth theory of Tor terracing",
-        "period": "1970s"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "National Trust",
-        "url": "https://www.nationaltrust.org.uk",
-        "focus": "Site management and conservation"
-      },
-      {
-        "name": "Glastonbury Antiquarian Society",
-        "url": "https://glastonburyantiquarians.org",
-        "focus": "Historical research and preservation"
-      },
-      {
-        "name": "The Chalice Well Trust",
-        "url": "https://chalicewell.org.uk",
-        "focus": "Management of Chalice Well gardens and spring"
-      }
-    ],
-    "ongoing_studies": "Archaeological monitoring, tourism impact studies, geological surveys, sociological research on modern pilgrimage, conservation of St. Michael's Tower"
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "visiting": {
-    "access": {
-      "status": "Open to public",
-      "cost": "Free (donations welcome)",
-      "hours": "Dawn to dusk",
-      "restrictions": "No fires, no camping, respect the site",
-      "difficulty": "Moderate climb (steep in places)"
-    },
-    "facilities": {
-      "parking": "Town car parks (800m walk to base)",
-      "toilets": "In Glastonbury town",
-      "accessibility": "Not wheelchair accessible - steep hill with uneven paths",
-      "nearby_amenities": "Full facilities in Glastonbury town"
-    },
-    "safety": {
-      "warnings": [
-        "Steep climbs - not suitable for those with mobility issues",
-        "Exposed summit - wind and weather protection needed",
-        "Tower structure - take care on uneven ground",
-        "No shelter on summit",
-        "Can be crowded at peak times"
-      ],
-      "best_conditions": "Clear weather, good visibility, avoid in high winds"
-    },
-    "etiquette": {
-      "guidelines": [
-        "Respect others' spiritual practices",
-        "Leave no trace - take litter home",
-        "Respect the tower structure - do not climb on walls",
-        "Keep dogs on leads near livestock",
-        "Be mindful of noise in this sacred space",
-        "Respect ongoing ceremonies or rituals",
-        "Photography respectful of other visitors"
-      ]
-    },
-    "best_times": {
-      "for_views": "Early morning or late afternoon, clear days",
-      "for_spiritual_experience": "Dawn, solstices, equinoxes (expect crowds)",
-      "for_solitude": "Weekday mornings off-season",
-      "to_avoid": "Summer weekends, major festivals"
-    }
-  },
-
-  "sources": [
-    {
-      "id": "ashe-1957",
-      "type": "book",
-      "title": "King Arthur's Avalon: The Story of Glastonbury",
-      "authors": ["Geoffrey Ashe"],
-      "publication": "Collins",
-      "date": "1957"
-    },
-    {
-      "id": "carley-1988",
-      "type": "book",
-      "title": "Glastonbury Abbey: The Holy House at the Head of the Moors Adventurous",
-      "authors": ["James P. Carley"],
-      "publication": "St. Martin's Press",
-      "date": "1988"
-    },
-    {
-      "id": "rahtz-1971",
-      "type": "article",
-      "title": "Excavations on Glastonbury Tor, Somerset, 1964-66",
-      "authors": ["Philip Rahtz"],
-      "publication": "Archaeological Journal",
-      "date": "1971",
-      "volume": "127",
-      "pages": "1-81"
-    },
-    {
-      "id": "michell-1969",
-      "type": "book",
-      "title": "The View Over Atlantis",
-      "authors": ["John Michell"],
-      "publication": "Sago Press",
-      "date": "1969"
-    },
-    {
-      "id": "national-trust",
-      "type": "website",
-      "title": "Glastonbury Tor",
-      "url": "https://www.nationaltrust.org.uk/visit/somerset/glastonbury-tor",
-      "accessed": "2026-01-14"
-    }
-  ]
+  "sources": []
 }
